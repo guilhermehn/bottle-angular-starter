@@ -1,0 +1,528 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-color-default"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"include",
+				"include	@include"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"save",
+				"saveFile"
+			],
+			[
+				"xO",
+				"xOffsetDefault"
+			],
+			[
+				"of",
+				"offset"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 263.0,
+		"selected_items":
+		[
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"mako",
+				"Set Syntax: HTML (Mako)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"cance",
+				"Build: Cancel"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"save ",
+				"Project: Save As"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"minm",
+				"View: Toggle Minimap"
+			],
+			[
+				"add ",
+				"Project: Add Folder"
+			],
+			[
+				"defa",
+				"Preferences: Settings - Default"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"encode",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"upgrade all",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"forma",
+				"Snippet: for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/Guilherme/Projetos/minecraft-commands/server.py",
+		"/F/Guilherme/Arquivos/Dropbox/Porra/Minecraft server/server.properties",
+		"/F/Guilherme/Projetos/minecraft-commands/views/base.html",
+		"/F/Guilherme/Projetos/minecraft-commands/static/js/min/angular-1.2.9.min.js",
+		"/F/Guilherme/Projetos/minecraft-commands/static/js/angular-1.2.9.js",
+		"/C/Users/Guilherme/Downloads/Server/server.properties",
+		"/C/Users/Guilherme/Downloads/Server/abre essa porra aqui.bat",
+		"/F/Guilherme/Projetos/reader/reader.js",
+		"/F/Guilherme/Projetos/reader/.gitignore",
+		"/F/Guilherme/Projetos/reader/index.html",
+		"/F/Guilherme/Projetos/reader/README.md",
+		"/F/Guilherme/Aplicativos/Minecraft Server/server.properties",
+		"/F/SteamLibrary/steamapps/common/Batman Arkham City GOTY/BmGame/Config/Launcher.ini",
+		"/C/SteamLibrary/SteamApps/common/Counter-Strike Global Offensive/csgo/cfg/config.cfg",
+		"/F/Guilherme/Projetos/mega-sena/D_MEGA.HTM",
+		"/F/Guilherme/Projetos/mega-sena/Resultado.js",
+		"/F/Guilherme/Projetos/mega-sena/index.js",
+		"/F/Guilherme/Projetos/mega-sena/resultados-1574.json",
+		"/F/Guilherme/Projetos/teste-r7/Gruntfile.js",
+		"/F/Guilherme/Projetos/teste-r7/css/style.scss",
+		"/F/Guilherme/Projetos/teste-r7/package.json",
+		"/F/Guilherme/Projetos/teste-r7/css/_vars.scss",
+		"/F/Guilherme/Projetos/teste-r7/css/_helpers.scss",
+		"/F/Guilherme/Projetos/teste-r7/npm-debug.log",
+		"/F/Guilherme/Projetos/teste-r7/js/TesteApp.js",
+		"/F/Guilherme/Projetos/teste-r7/TODO.txt",
+		"/F/Guilherme/Projetos/teste-r7/js/objeto.js",
+		"/C/Users/Guilherme/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Guilherme/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/F/Guilherme/Projetos/teste-r7/css/style.css",
+		"/F/Guilherme/Projetos/teste-r7/css/960.css",
+		"/F/Guilherme/Projetos/teste-r7/css/normalize.css",
+		"/F/Guilherme/Projetos/teste-r7/js/min/angular.min.js",
+		"/F/Guilherme/Projetos/teste-r7/js/angular.js",
+		"/C/Users/Guilherme/Documents/hosts",
+		"/F/Guilherme/Projetos/teste-r7/teste-r7.sublime-project",
+		"/F/Guilherme/Projetos/teste-r7/min/angular.min.js",
+		"/F/Guilherme/Projetos/comix-browser/cheerio-tests.js",
+		"/F/Guilherme/Projetos/comix-browser/node_modules/install/node_modules/whiskey/assets/coverage_html.js",
+		"/F/Guilherme/Projetos/comix-browser/schemas.js",
+		"/C/mongodb/README",
+		"/F/Guilherme/Projetos/comix-browser/README.md",
+		"/F/Guilherme/Projetos/ast/crawler.js",
+		"/F/Guilherme/Projetos/ast/public/json/models-2013-12-29_0-20-12.json",
+		"/C/Users/Guilherme/Desktop/correios_busca.html",
+		"/F/Guilherme/Arquivos/pr0n/Novo Documento de Texto.txt",
+		"/F/Guilherme/Projetos/ast/crawler-images.js",
+		"/C/Users/Guilherme/AppData/Roaming/Sublime Text 3/Packages/User/Node.sublime-build",
+		"/F/Guilherme/Projetos/ast/npm-debug.log",
+		"/F/Guilherme/Projetos/ast/ast-model.sublime-project",
+		"/F/Guilherme/Projetos/ast/views/index.jade",
+		"/F/Guilherme/Projetos/ast/public/js/ast-app.js",
+		"/F/Guilherme/Projetos/ast/public/js/ast-filters.js",
+		"/F/Guilherme/Projetos/ast/public/js/ast-controllers.js",
+		"/D/Guilherme/Projetos/ast/public/js/ast-values.js",
+		"/D/Guilherme/Projetos/ast/views/layout.jade",
+		"/D/Guilherme/Projetos/ast/public/js/ast-filters.js",
+		"/D/Guilherme/Projetos/ast/app.js",
+		"/D/Guilherme/Projetos/ast/crawler.js",
+		"/D/Guilherme/Projetos/ast/public/css/ast-style.css",
+		"/D/Guilherme/Projetos/ast/ast-model.sublime-project",
+		"/D/Guilherme/Projetos/ast/package.json",
+		"/D/Guilherme/Projetos/ast/routes/index.js",
+		"/D/Guilherme/Projetos/ast/crawler-images.js",
+		"/D/Guilherme/Projetos/ast/html/taissi-fontini.html",
+		"/D/Guilherme/Projetos/ast/public/fonts/glyphicons-halflings-regular.svg",
+		"/D/Guilherme/Projetos/ast/index.js",
+		"/D/Guilherme/Projetos/ast-model/models-1388238032997.json",
+		"/D/Guilherme/Projetos/sudoku-solver/sudoku.js",
+		"/D/Guilherme/Projetos/sudoku-solver/index.js",
+		"/D/Guilherme/hosts",
+		"/D/Guilherme/Arquivos/pr0n/Novo Documento de Texto.txt",
+		"/D/Guilherme/Projetos/sudoku-solver/sudoku.txt",
+		"/D/Guilherme/Projetos/explosm-downloader/index.js",
+		"/D/Guilherme/Projetos/explosm-downloader/test.html",
+		"/C/Users/Guilherme/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/CHANGELOG"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"whilte",
+			"text",
+			";",
+			"static",
+			"TEste",
+			"err",
+			"previous",
+			"doc.querySelector",
+			"document",
+			"models",
+			"bgcolor=#D9E6F4",
+			"</font>",
+			"<font face=\"Arial\" color=\"#FFFFFF\">",
+			"<(\\/?)small>",
+			" width=\"\\d+\" ",
+			"<th >",
+			"width=\"\\d+\"  ",
+			"height=\"20\" ",
+			"bgcolor=\"#7BA8D9\"",
+			"\\n\\n",
+			"footer",
+			"//",
+			"required",
+			"key",
+			"ng-model=\"form",
+			"#a8a8a8",
+			"link",
+			"'",
+			"\"",
+			"queue_mode",
+			"mat_queue_mode",
+			".",
+			"categoriesElems",
+			"index",
+			"category",
+			"\\n\\s+<a ",
+			"\\n\\s+\\+",
+			"<div class=\"maisvendidos_preco\">",
+			"<br>",
+			"shift",
+			"close",
+			"end",
+			"trim_tr",
+			"tab",
+			"close",
+			"translate",
+			"4",
+			"lg-1",
+			"-1",
+			"hairColor",
+			"Auburn",
+			"hairColor",
+			"102",
+			"modelSpots",
+			"elem",
+			"Name",
+			"Name:",
+			"[",
+			"3",
+			"length",
+			"0",
+			"3",
+			"1",
+			"(i + 1",
+			"0",
+			"shift",
+			"c",
+			"a",
+			"r",
+			";",
+			"trim",
+			"draw"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"css",
+			"",
+			"<th>",
+			"",
+			"\\n",
+			"<a ",
+			"+",
+			"",
+			"i",
+			"response",
+			"request",
+			";\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 253.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "bottle-angular-starter.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"base",
+				"views\\base.html"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"igno",
+				".gitignore"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"todo",
+				"TODO.txt"
+			],
+			[
+				"ob",
+				"js\\objeto.js"
+			],
+			[
+				"schemas",
+				"schemas.js"
+			],
+			[
+				"cheer",
+				"cheerio-tests.js"
+			],
+			[
+				"json",
+				"public\\json\\models-2013-12-29_0-20-12.json"
+			],
+			[
+				"filte",
+				"public\\js\\ast-filters.js"
+			],
+			[
+				"app",
+				"app.js"
+			],
+			[
+				"craw",
+				"crawler.js"
+			],
+			[
+				"controllers",
+				"public\\js\\ast-controllers.js"
+			],
+			[
+				"ast",
+				"public\\js\\ast-app.js"
+			],
+			[
+				"inde",
+				"views\\index.jade"
+			],
+			[
+				"fil",
+				"public\\js\\ast-filters.js"
+			],
+			[
+				"s",
+				"sudoku.js"
+			],
+			[
+				"sud",
+				"sudoku.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Guilherme\\Documents\\my games\\skyrim\\skyrim-ini.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
